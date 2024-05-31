@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-base-ec863": {
+      "hosting": {
+        "app": [
+          "ionic-base-ec863"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-base-ec863"
+  }
+}
